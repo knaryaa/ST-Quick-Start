@@ -1,0 +1,42 @@
+[
+	{
+		"file": "E:\\Unreal Engine 5 Projects\\ST_QuickStart\\Source\\ST_QuickStart\\MassAITest.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Engine 5 Projects\\ST_QuickStart\\.vscode\\compileCommands_Default\\ST_QuickStart.1.rsp"
+		],
+		"directory": "E:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Engine 5 Projects\\ST_QuickStart\\Source\\ST_QuickStart\\MassAITest.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Engine 5 Projects\\ST_QuickStart\\.vscode\\compileCommands_Default\\ST_QuickStart.1.rsp"
+		],
+		"directory": "E:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Engine 5 Projects\\ST_QuickStart\\Source\\ST_QuickStart\\ST_QuickStart.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Engine 5 Projects\\ST_QuickStart\\.vscode\\compileCommands_Default\\ST_QuickStart.1.rsp"
+		],
+		"directory": "E:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Engine 5 Projects\\ST_QuickStart\\Source\\ST_QuickStart\\ST_QuickStart.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Engine 5 Projects\\ST_QuickStart\\.vscode\\compileCommands_Default\\ST_QuickStart.1.rsp"
+		],
+		"directory": "E:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Unreal Engine 5 Projects\\ST_QuickStart\\Source\\ST_QuickStart\\ST_QuickStart.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Unreal Engine 5 Projects\\ST_QuickStart\\.vscode\\compileCommands_Default\\ST_QuickStart.1.rsp"
+		],
+		"directory": "E:\\UE_5.3\\Engine\\Source"
+	}
+]
